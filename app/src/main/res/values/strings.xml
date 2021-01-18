@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Higher_lower</string>
+    <string name="textView">Can you guess a number between 1 and 100?</string>
+</resources>
